@@ -1,0 +1,10 @@
+<template name="trackerItem">
+  <div class="list-item {{checkedClass}} {{editingClass}}">
+    <input type="text" value="{{text}}" placeholder="Tracker name">
+
+    <button class="stamp" type="button" value="{{text}}" style="padding:5px">Start</button>
+    <button class="stamp" type="button" value="{{text}}" style="padding:5px">Stop</button>
+
+    <a class="js-delete-item delete-item" href="#"><span class="icon-trash"></span></a>
+  </div>
+</template>
