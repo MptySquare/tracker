@@ -1,5 +1,5 @@
 App.info({
-  name: 'Todos',
+  name: 'Tracker',
   description: 'A simple todo list app built in Meteor.',
   author: 'Percolate Studio Team',
   email: 'us@percolatestudio.com',

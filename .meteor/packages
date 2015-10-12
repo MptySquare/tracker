@@ -4,9 +4,25 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-meteor-platform
 insecure
 less
-iron:router@0.9.4
+iron:router
 accounts-password
 sergeyt:typeahead
+standard-minifiers
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+coffeescript
+mquandalle:jade
+fourseven:scss
